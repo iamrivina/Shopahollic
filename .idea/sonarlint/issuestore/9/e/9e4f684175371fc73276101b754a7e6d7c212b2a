@@ -1,0 +1,9 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¿Æ8ÖÊûå™+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(›çÁï8ÖÊûå™+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(±Çİùÿÿÿÿ8ÖÊûå™+
+hsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(å‚Ğğûÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "numRows".(Õ²à›8ÖÊûå™+
+Hsquid:S1481",Remove this unused "numRows" local variable.(Õ²à›8ÖÊûå™+
